@@ -47,3 +47,5 @@ Rename "config/config.env.env" to "config/config.env" and update the values to y
 ## Documentation
 
 Detailed documentation with examples available at : https://documenter.getpostman.com/view/11590162/TWDZJbqb
+
+(Set the Environment to Pet-Store)
