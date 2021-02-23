@@ -19,7 +19,6 @@
 - POST `/api/v1/pets` : Creates a pet
 - PUT `/api/v1/pets/:id` : Updates a pet
 - DELETE `/api/v1/pets/:id` : Deletes a pet
-- GET `/api/v1/pets` : Fetches all pets
 - GET `/api/v1/owners/:ownerId/pets` : Fetches the pets of an owner
 - GET `/api/v1/pets/:petId/owner` : Fetches the owner of a pet
 
